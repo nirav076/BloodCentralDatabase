@@ -1,0 +1,75 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20-Oct-2013, 19:33:35
+    Author     : Sohil
+*/
+#heading
+{
+    //color: red;
+    //border: solid;
+    position: absolute;
+    left: 27%;
+}
+#bloodImg img
+{
+    position: absolute;
+    width:150px;
+    height:150px;
+    left:12%;
+}
+#theForm
+{
+    position: absolute;
+    top: 45%;
+}
+
+#bloodBanksLink
+{
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    height: 23px;
+    width: 85px;
+    border:solid;
+    text-align: center;
+    background: red;    
+    
+    
+}
+
+#bloodBanksLink a
+{
+    text-decoration: none;
+    color: white;
+}
+
+#donorsLink
+{
+    position: absolute;
+    left:55%;
+    top:50%;
+    height: 23px;
+    width: 85px;
+    border:solid;
+    text-align: center;
+    text-decoration: none;
+    background: red; 
+  
+}
+
+#donorsLink a
+{
+    text-decoration: none;
+    color: white;
+}
+
+#bloodUnits
+{
+    position: absolute;
+    left: 20%;
+    top: 70%;
+}
